@@ -1,5 +1,5 @@
 {% set name = "types-MarkupSafe" %}
-{% set version = "1.1.8" %}
+{% set version = "1.1.9" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-MarkupSafe-{{ version }}.tar.gz
-  sha256: b2940f4faab46be0f9509b2f98ea9ff36d058f89fa113d98ae07cdc7958ec15f
+  sha256: a9212736c37763549a96d71e358bc0fc16723798468b40fe3615960e9e2a8b1b
 
 build:
   number: 0
